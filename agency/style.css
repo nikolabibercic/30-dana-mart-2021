@@ -545,13 +545,13 @@ responsive
         left: 0px;
     }
     /***********
-    team services
+    services responsive
     ***********/
     .services .container {
         flex-direction: column;
     }
     /***********
-    header
+    header responsive
     ***********/
     header nav {
         flex-direction: column;
